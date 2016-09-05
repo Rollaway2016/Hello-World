@@ -1,4 +1,0 @@
-.eot是IE专用字体
-.woff是W3C推荐字体格式
-.ttf是MAC和WIN常见字体
-.svg是W3C制定的图形格式
